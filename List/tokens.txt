@@ -1,0 +1,6 @@
+warn
+#su#
+#login#
+fail
+sudo
+crash
